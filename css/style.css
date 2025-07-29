@@ -1,7 +1,7 @@
 /* Required height of parents of the Full Page Intro and Intro itself */
 .timer-box {
-  background: rgba(10, 10, 10, 0.9);
-  color: #fff;
+  background: #fff;
+  color: rgba(10, 10, 10, 0.9);
   border-radius: 0.4em;
   font-family: "Barlow", sans-serif;
   align-content: center;
