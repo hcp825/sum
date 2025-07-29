@@ -1,2 +1,2 @@
-# even
-EVEN LIGHTING
+# sum
+SUM LIGHTING
